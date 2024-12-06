@@ -1,0 +1,11 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 0A3A-CB25
+
+ Directorio de C:\Users\Luis\repositorioPrueba
+
+05/12/2024  22:24    <DIR>          .
+05/12/2024  22:17    <DIR>          ..
+05/12/2024  22:24                 0 archivoPrueba.txt
+05/12/2024  22:20                21 readme.md
+               2 archivos             21 bytes
+               2 dirs  825.928.695.808 bytes libres
